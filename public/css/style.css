@@ -1,0 +1,9 @@
+.main img
+{
+width: 200px;
+height: 200px;
+}
+.main img:hover {
+filter: grayscale(100%);
+transform: scale(1.1);
+}
